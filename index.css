@@ -71,7 +71,7 @@ img {
 }
 
 .checklist::before {
-  content: url(/assets/Done_ring_round_fill.svg);
+  content: url(./assets/Done_ring_round_fill.svg);
   position: relative;
   top: 0.5em;
   margin-right: 0.5em;

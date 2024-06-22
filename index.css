@@ -19,6 +19,7 @@
 body {
   font-family: sora;
   background-color: var(--bg-offwhite);
+  color: var(--bg-grey);
   line-height: 1.5;
 }
 
